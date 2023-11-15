@@ -5,7 +5,7 @@
 
 ##  Ход работы
 
- 1. Аккаунт GitHub был создан до выполнения лабораторной работы: (https://github.com/piligrimdev))<br>
+ 1. Аккаунт GitHub был создан до выполнения лабораторной работы:<br>
  2. Сделан форк репозитория лабораторной:<br>
 
       ![1](https://github.com/KovinkoOlga/LR6/blob/report/screenshots/fork.png)
